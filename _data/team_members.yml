@@ -1,0 +1,20 @@
+- name: Wang Shixiang
+  photo: wangshixiang.jpg
+  info: Postdoc in oncology 
+  email: wangsx1@sysucc.org.cn
+  number_educ: 1
+  education1: 
+
+- name: Wang Chaoye
+  photo: wangchaoye.jpg
+  info: 
+  email: huangys@sysucc.org.cn
+  number_educ: 1
+  education1:  MS student in Molecular Medicine, Sun Yat-sen University Cancer Center
+
+- name: She Yong
+  photo: sheyong.jpg
+  info: Cancer Genomics, Machine Learning, and Website UI
+  email: 
+  number_educ: 1
+  education1:  Undergraduate Students, Zhengzhou University.

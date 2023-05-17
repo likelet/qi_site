@@ -1,0 +1,50 @@
+- name: Chen Yanxing
+  photo: chenyx.png
+  info: PhD student in oncology 
+  email: chenyh1@sysucc.org.cn
+  number_educ: 1
+  education1: PhD student in Sun Yat-sen University Cancer Center
+
+- name: Luo Lizhi
+  photo: luolizh.jpg
+  info: PhD student oncology
+  email: luolz@sysucc.org.cn
+  number_educ: 1
+  education1: PhD student in Sun Yat-sen University Cancer Center
+
+- name: Huang Yousheng
+  photo: huangys.jpg
+  info: MS student in oncology
+  email: huangys@sysucc.org.cn
+  number_educ: 1
+  education1: MS student in Sun Yat-sen University Cancer Center
+
+- name: Shen Ao
+  photo: shenao.jpg
+  info: MS student in Molecular Medicine
+  email: huangys@sysucc.org.cn
+  number_educ: 1
+  education1:  MS student in Sun Yat-sen University Cancer Center
+
+- name: Huang Runjie 
+  photo: huangrj.jpg
+  info: PhD student in Molecular Medicine
+  email: huangys@sysucc.org.cn
+  number_educ: 1
+  education1:   PhD student in Sun Yat-sen University Cancer Center
+
+- name: Wang Xin
+  photo: wangxin.png
+  info: Bioinformatics tools development.
+  email: 
+  number_educ: 2
+  education1: MSc in Carnegie Mellon University
+  education2: BS in Sun Yat-sen University
+
+- name: Liu Kunxiang
+  photo: liukx.jpg
+  info: Bioinformatics tools development.
+  email: 
+  number_educ: 1
+  education1: PhD students from Changchun Institute of Optics, Fine Mechanics and Physics (CIOMP) 
+  

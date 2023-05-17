@@ -1,0 +1,16 @@
+- name: Zhao Qi
+  photo: zhaoqi.png
+  info: Associate Professor, started Nov 2019
+  email: zhaoqi@sysucc.org.cn
+  number_educ: 3
+  education1: Postdoc with  <a href="http://english.sysucc.org.cn/info_19.aspx?itemid=154">Xu Ruihua</a>, Sun Yat-sen Univerisy.
+  education2: PhD with <a href="https://publons.com/researcher/1557940/jian-ren">Ren Jian</a>, Sun Yat-sen Univerisy.
+  education3: BSc Shaanxi University of Science & Technology.
+
+- name: Wang Feng
+  photo: default.png
+  info: Professor in Medical Oncology, Since 2019
+  email: wangfeng@sysucc.org.cn
+  number_educ: 2
+  education1: PhD from MD Anderson Cancer Center.  
+  education2: MD from Sun Yat-sen University.

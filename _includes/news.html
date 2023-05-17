@@ -1,0 +1,17 @@
+
+<div class="well">
+<h4>News</h4>
+
+{% for article in site.data.news limit:9 %}
+{{ article.date }}
+<p>{{ article.headline | markdownify}}</p>
+{% endfor %}
+
+<h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
+
+
+
+<h4>Global visitors</h4>
+ <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=50b5wf7ekje&amp;m=0c&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=1&amp;s=170&amp;cw=ffffff&amp;cb=000000" async="async"></script>
+
+</div>
