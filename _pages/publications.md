@@ -53,6 +53,16 @@ permalink: /publications/
 
 ## Selected publications
 (See also [Google Scholar](https://scholar.google.com/citations?user=j7LCthMAAAAJ&hl=en); † for equal contribution; \* for corresponding authors)
+
+### 2023
+{% for publi in site.data.publist_select %}
+
+{% if publi.year == 2023 %}
+[**{{ publi.number }}**].  <u>{{ publi.title }}</u> <br />
+<em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+{% endfor %}
+
 ### 2022
 {% for publi in site.data.publist_select %}
 
@@ -103,24 +113,6 @@ permalink: /publications/
 {% for publi in site.data.publist_select %}
 
 {% if publi.year == 2017 %}
-[**{{ publi.number }}**]. <u>{{ publi.title }}</u> <br />
-<em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-{% endif %}
-{% endfor %}
-
-### 2016
-{% for publi in site.data.publist_select %}
-
-{% if publi.year == 2016 %}
-[**{{ publi.number }}**]. <u>{{ publi.title }}</u> <br />
-<em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-{% endif %}
-{% endfor %}
-
-### 2015
-{% for publi in site.data.publist_select %}
-
-{% if publi.year == 2015 %}
 [**{{ publi.number }}**]. <u>{{ publi.title }}</u> <br />
 <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 {% endif %}
