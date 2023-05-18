@@ -3,18 +3,39 @@
   info: Postdoc in oncology 
   email: wangsx1@sysucc.org.cn
   number_educ: 1
-  education1: 
+  education1: Ph.D of Bioinformatics 
+
+- name: Wen Zhou
+  photo: zhouwen.jpg
+  info: Postdoc in oncology 
+  email: zhouw@sysucc.org.cn
+  number_educ: 1
+  education1: Ph.D of Public Health
+
+- name: Zixin Qing
+  photo: qinzixin.jpg
+  info: Postdoc in oncology 
+  email: qinzx@sysucc.org.cn
+  number_educ: 1
+  education1: Ph.D of bioinformatics
 
 - name: Wang Chaoye
   photo: wangchaoye.jpg
-  info: 
+  info: MS student in Molecular Medicine, Sun Yat-sen University Cancer Center
   email: huangys@sysucc.org.cn
   number_educ: 1
-  education1:  MS student in Molecular Medicine, Sun Yat-sen University Cancer Center
+  education1:   Undergraduate Students, Lanzhou  University.
 
 - name: She Yong
   photo: sheyong.jpg
   info: Cancer Genomics, Machine Learning, and Website UI
   email: 
   number_educ: 1
-  education1:  Undergraduate Students, Zhengzhou University.
+  education1:  MS student in Molecular Medicine, Sun Yat-sen University Cancer Center
+
+- name: Ruxiang Bao
+  photo: baoruxiang.jpg
+  info:  cancer genomics 
+  email: 
+  number_educ: 1
+  education1:  Undergraduate Students, Lanzhou  University.
