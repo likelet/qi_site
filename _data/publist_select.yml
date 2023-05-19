@@ -20,7 +20,7 @@
 
 - title: "Whole-Exome Sequencing Among Chinese Patients With Hereditary Diffuse Gastric Cancer."
   number: 31
-  authors: Ze-Xian Liu<sup>†</sup>, Xiao-Long Zhang<sup>†</sup>, **Qi Zhao<sup>†</sup>**, Yungchang Chen, Hui Sheng, Cai-Yun He, Yu-Ting Sun, Ming-Yu Lai, Min-Qing Wu, Zhi-Xiang Zuo, Wei Wang, Zhi-Wei Zhou, Feng-Hua Wang, Yu-Hong Li, Rui-Hua Xu*, Miao-Zhen Qiu\*.
+  authors: Ze-Xian Liu<sup>†</sup>, Xiao-Long Zhang<sup>†</sup>, **Qi Zhao<sup>†</sup>**, Yungchang Chen, Hui Sheng, Cai-Yun He, Yu-Ting Sun, Ming-Yu Lai, Min-Qing Wu, Zhi-Xiang Zuo, Wei Wang, Zhi-Wei Zhou, Feng-Hua Wang, Yu-Hong Li, Rui-Hua Xu\*, Miao-Zhen Qiu\*.
   link:
     url: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2799351
     display: JAMA Network Open. 2022 Dec 1;5(12):e2245836.
@@ -29,7 +29,7 @@
 
 - title: "VSOLassoBag: a variable-selection oriented LASSO bagging algorithm for biomarker discovery in omic-based translational research"
   image: lassobag.jpg
-  description:  "VSOLassoBag is a variable-selection oriented LASSO bagging algorithm for biomarker development in omic-based translational research, providing a bagging LASSO framework for selecting important variables from multiple models. A main application of this package is to screen limitted number of variables that are less dependent to train dataset. Basically, this packages was initially deveploped for adjust LASSO selected results from bootstrapped sample set. Variables with the highest frequency among the several selected result were considered as stable variables for differ sample set. However, it is usually hard to determine the cutoff in terms of frequency when applyed in a real dataset. In this package, we introduced several methods, namely (1) curve elbow point detection, (2) parametrical statistical test and (3) permutation test to help determine the cut-off point for variables selection."
+  description:  "VSOLassoBag is a variable-selection oriented LASSO bagging algorithm for biomarker development in omic-based translational research, providing a bagging LASSO framework for selecting important variables from multiple models. In this package, we introduced several methods, namely (1) curve elbow point detection, (2) parametrical statistical test and (3) permutation test to help determine the cut-off point for variables selection."
   number: 30
   authors: Jiaqi Liang<sup>†</sup>, Chaoye Wang<sup>†</sup>, Di Zhangsup>†</sup>, Yubin Xie, Yanru Zeng, Tianqin Li, Zhixiang Zuo, Jian Ren,  **Qi Zhao\***
   link:
