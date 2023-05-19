@@ -1,3 +1,43 @@
+- title: "An immunogenic and oncogenic feature-based classification for chemotherapy plus PD-1 blockade in advanced esophageal squamous cell carcinoma"
+  image: EGIC.jpg
+  description:  "We performed whole-exome sequencing on tumor samples from 486 patients of the JUPITER-06 study and develop a copy number alteration-corrected tumor mutational burden that depicts immunogenicity more precisely and predicts chemo+anti-PD-1 efficacy. We identify several other favorable immunogenic features (e.g., HLA-I/II diversity) and risk oncogenic alterations (e.g., PIK3CA and TET2 mutation) associated with chemo+anti-PD-1 efficacy. An esophageal cancer genome-based immuno-oncology classification (EGIC) scheme incorporating these immunogenic features and oncogenic alterations is established. Chemo+anti-PD-1 achieves significant survival improvements in EGIC1 (immunogenic feature-favorable and oncogenic alteration-negative) and EGIC2 (either immunogenic feature-favorable or oncogenic alteration-negative) subgroups, but not the EGIC3 subgroup (immunogenic feature-unfavorable and oncogenic alteration-positive). Thus, EGIC may guide future individualized treatment strategies and inform mechanistic biomarker research for chemo+anti-PD-1 treatment in patients with advanced ESCC."
+  number: 33
+  authors: Yan-Xing Chen<sup>†</sup>, Zi-Xian Wang<sup>†</sup>, Ying Jin<sup>†</sup>, **Qi Zhao<sup>†</sup>**, Ze-Xian Liu, Zhi-Xiang Zuo, Huai-Qiang Ju, Chengxu Cui, Jun Yao, Yanqiao Zhang, Mengxia Li, Jifeng Feng, Lin Tian, Xiao-Jun Xia, Hui Feng, Sheng Yao, Feng-Hua Wang, Yu-Hong Li, Feng Wang, Rui-Hua Xu\*
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S1535610823000892
+    display: Cancer Cell. 2023 May 8;41(5):919-932.e5.
+  highlight: 1
+  year: 2023
+
+- title: "Building an ensemble learning model for gastric cancer cell line classification via rapid raman spectroscopy."
+  number: 32
+  authors: Kunxiang Liu, Bo Liu, Yuhong Zhang, Qinian Wu, Ming Zhong, Lindong Shang, Yu Wang, Peng Liang, Weiguo Wang,  **Qi Zhao\***, Bei Li\*..
+  link:
+    url: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2799351
+    display: Computational and Structural Biotechnology Journal, 2022, 21, 802-811.
+  highlight: 0
+  year: 2023
+
+- title: "Whole-Exome Sequencing Among Chinese Patients With Hereditary Diffuse Gastric Cancer."
+  number: 31
+  authors: Ze-Xian Liu<sup>†</sup>, Xiao-Long Zhang<sup>†</sup>, **Qi Zhao<sup>†</sup>**, Yungchang Chen, Hui Sheng, Cai-Yun He, Yu-Ting Sun, Ming-Yu Lai, Min-Qing Wu, Zhi-Xiang Zuo, Wei Wang, Zhi-Wei Zhou, Feng-Hua Wang, Yu-Hong Li, Rui-Hua Xu*, Miao-Zhen Qiu\*.
+  link:
+    url: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2799351
+    display: JAMA Network Open. 2022 Dec 1;5(12):e2245836.
+  highlight: 0
+  year: 2023
+
+- title: "VSOLassoBag: a variable-selection oriented LASSO bagging algorithm for biomarker discovery in omic-based translational research"
+  image: lassobag.jpg
+  description:  "VSOLassoBag is a variable-selection oriented LASSO bagging algorithm for biomarker development in omic-based translational research, providing a bagging LASSO framework for selecting important variables from multiple models. A main application of this package is to screen limitted number of variables that are less dependent to train dataset. Basically, this packages was initially deveploped for adjust LASSO selected results from bootstrapped sample set. Variables with the highest frequency among the several selected result were considered as stable variables for differ sample set. However, it is usually hard to determine the cutoff in terms of frequency when applyed in a real dataset. In this package, we introduced several methods, namely (1) curve elbow point detection, (2) parametrical statistical test and (3) permutation test to help determine the cut-off point for variables selection."
+  number: 30
+  authors: Jiaqi Liang<sup>†</sup>, Chaoye Wang<sup>†</sup>, Di Zhangsup>†</sup>, Yubin Xie, Yanru Zeng, Tianqin Li, Zhixiang Zuo, Jian Ren,  **Qi Zhao\***
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/36608930/
+    display: Journal of Genetics and Genomics
+  highlight: 1
+  year: 2023
+  
 
 - title: "Deciphering clonal dynamics and metastatic routines in a rare patient of synchronous triple-primary tumors and multiple metastases with MPTevol"
   image: MPTevol.jpg
