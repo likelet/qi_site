@@ -1,8 +1,36 @@
-I"*R<h1 id="publications">Publications</h1>
+I"Qe<h1 id="publications">Publications</h1>
 
 <h2 id="group-highlights">Group highlights</h2>
 
 <p>(For a full list of publications and patents see <a href="#full-list-of-publications">below</a> or go to <a href="https://scholar.google.ch/citations?user=j7LCthMAAAAJ">Google Scholar</a>, <a href="https://www.researchgate.net/profile/Qi-Zhao-27">ReseachGate ID</a>)</p>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit><u>An immunogenic and oncogenic feature-based classification for chemotherapy plus PD-1 blockade in advanced esophageal squamous cell carcinoma</u></pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/EGIC.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>We performed whole-exome sequencing on tumor samples from 486 patients of the JUPITER-06 study and develop a copy number alteration-corrected tumor mutational burden that depicts immunogenicity more precisely and predicts chemo+anti-PD-1 efficacy.  An esophageal cancer genome-based immuno-oncology classification (EGIC) scheme incorporating these immunogenic features and oncogenic alterations is established. EGIC may guide future individualized treatment strategies and inform mechanistic biomarker research for chemo+anti-PD-1 treatment in patients with advanced ESCC.</p>
+      <p><em>Yan-Xing Chen<sup>†</sup>, Zi-Xian Wang<sup>†</sup>, Ying Jin<sup>†</sup>, <strong>Qi Zhao<sup>†</sup></strong>, Ze-Xian Liu, Zhi-Xiang Zuo, Huai-Qiang Ju, Chengxu Cui, Jun Yao, Yanqiao Zhang, Mengxia Li, Jifeng Feng, Lin Tian, Xiao-Jun Xia, Hui Feng, Sheng Yao, Feng-Hua Wang, Yu-Hong Li, Feng Wang, Rui-Hua Xu*</em></p>
+      <p><strong><a href="https://www.sciencedirect.com/science/article/abs/pii/S1535610823000892">Cancer Cell. 2023 May 8;41(5):919-932.e5.</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit><u>VSOLassoBag: a variable-selection oriented LASSO bagging algorithm for biomarker discovery in omic-based translational research</u></pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/lassobag.jpg" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>VSOLassoBag is a variable-selection oriented LASSO bagging algorithm for biomarker development in omic-based translational research, providing a bagging LASSO framework for selecting important variables from multiple models. In this package, we introduced several methods, namely (1) curve elbow point detection, (2) parametrical statistical test and (3) permutation test to help determine the cut-off point for variables selection.</p>
+      <p><em>Jiaqi Liang<sup>†</sup>, Chaoye Wang<sup>†</sup>, Di Zhang<sup>†</sup>, Yubin Xie, Yanru Zeng, Tianqin Li, Zhixiang Zuo, Jian Ren,  <strong>Qi Zhao*</strong></em></p>
+      <p><strong><a href="https://pubmed.ncbi.nlm.nih.gov/36608930/">Journal of Genetics and Genomics. 2023 Mar;50(3):151-162.</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
 
 <div class="row">
 
@@ -94,6 +122,18 @@
 <p>(See also <a href="https://scholar.google.com/citations?user=j7LCthMAAAAJ&amp;hl=en">Google Scholar</a>; † for equal contribution; * for corresponding authors)</p>
 
 <h3 id="2023">2023</h3>
+
+<p>[<strong>33</strong>].  <u>An immunogenic and oncogenic feature-based classification for chemotherapy plus PD-1 blockade in advanced esophageal squamous cell carcinoma</u> <br />
+<em>Yan-Xing Chen<sup>†</sup>, Zi-Xian Wang<sup>†</sup>, Ying Jin<sup>†</sup>, <strong>Qi Zhao<sup>†</sup></strong>, Ze-Xian Liu, Zhi-Xiang Zuo, Huai-Qiang Ju, Chengxu Cui, Jun Yao, Yanqiao Zhang, Mengxia Li, Jifeng Feng, Lin Tian, Xiao-Jun Xia, Hui Feng, Sheng Yao, Feng-Hua Wang, Yu-Hong Li, Feng Wang, Rui-Hua Xu* </em><br /><a href="https://www.sciencedirect.com/science/article/abs/pii/S1535610823000892">Cancer Cell. 2023 May 8;41(5):919-932.e5.</a></p>
+
+<p>[<strong>32</strong>].  <u>Building an ensemble learning model for gastric cancer cell line classification via rapid raman spectroscopy.</u> <br />
+<em>Kunxiang Liu, Bo Liu, Yuhong Zhang, Qinian Wu, Ming Zhong, Lindong Shang, Yu Wang, Peng Liang, Weiguo Wang,  <strong>Qi Zhao*</strong>, Bei Li*.. </em><br /><a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2799351">Computational and Structural Biotechnology Journal, 2022, 21, 802-811.</a></p>
+
+<p>[<strong>31</strong>].  <u>Whole-Exome Sequencing Among Chinese Patients With Hereditary Diffuse Gastric Cancer.</u> <br />
+<em>Ze-Xian Liu<sup>†</sup>, Xiao-Long Zhang<sup>†</sup>, <strong>Qi Zhao<sup>†</sup></strong>, Yungchang Chen, Hui Sheng, Cai-Yun He, Yu-Ting Sun, Ming-Yu Lai, Min-Qing Wu, Zhi-Xiang Zuo, Wei Wang, Zhi-Wei Zhou, Feng-Hua Wang, Yu-Hong Li, Rui-Hua Xu*, Miao-Zhen Qiu*. </em><br /><a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2799351">JAMA Network Open. 2022 Dec 1;5(12):e2245836.</a></p>
+
+<p>[<strong>30</strong>].  <u>VSOLassoBag: a variable-selection oriented LASSO bagging algorithm for biomarker discovery in omic-based translational research</u> <br />
+<em>Jiaqi Liang<sup>†</sup>, Chaoye Wang<sup>†</sup>, Di Zhang<sup>†</sup>, Yubin Xie, Yanru Zeng, Tianqin Li, Zhixiang Zuo, Jian Ren,  <strong>Qi Zhao*</strong> </em><br /><a href="https://pubmed.ncbi.nlm.nih.gov/36608930/">Journal of Genetics and Genomics. 2023 Mar;50(3):151-162.</a></p>
 
 <h3 id="2022">2022</h3>
 
