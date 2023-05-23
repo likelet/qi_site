@@ -1,3 +1,13 @@
+
+- title: "Unveiling the interplay between mutational signatures and tumor microenvironment: a pan-cancer analysis"
+  number: 34
+  authors: Li-Zhi Luo<sup>†</sup>, Sheng Li<sup>†</sup>, Chen Wei<sup>†</sup>, Jiao Ma<sup>†</sup>, Li-Mei Qian<sup>†</sup>, Yan-Xing Chen<sup>†</sup>, Shi-Xiang Wang1* and Qi Zhao1* **Qi Zhao\***.
+  link:
+    url: https://www.frontiersin.org/articles/10.3389/fimmu.2023.1186357/full
+    display: Front. Immunol., 22 May 2023
+  highlight: 0
+  year: 2023
+
 - title: "An immunogenic and oncogenic feature-based classification for chemotherapy plus PD-1 blockade in advanced esophageal squamous cell carcinoma"
   image: EGIC.jpg
   description:  "We performed whole-exome sequencing on tumor samples from 486 patients of the JUPITER-06 study and develop a copy number alteration-corrected tumor mutational burden that depicts immunogenicity more precisely and predicts chemo+anti-PD-1 efficacy.  An esophageal cancer genome-based immuno-oncology classification (EGIC) scheme incorporating these immunogenic features and oncogenic alterations is established. EGIC may guide future individualized treatment strategies and inform mechanistic biomarker research for chemo+anti-PD-1 treatment in patients with advanced ESCC."
@@ -11,7 +21,7 @@
 
 - title: "Building an ensemble learning model for gastric cancer cell line classification via rapid raman spectroscopy."
   number: 32
-  authors: Kunxiang Liu, Bo Liu, Yuhong Zhang, Qinian Wu, Ming Zhong, Lindong Shang, Yu Wang, Peng Liang, Weiguo Wang,  **Qi Zhao\***, Bei Li\*..
+  authors: Kunxiang Liu, Bo Liu, Yuhong Zhang, Qinian Wu, Ming Zhong, Lindong Shang, Yu Wang, Peng Liang, Weiguo Wang,  **Qi Zhao\***, Bei Li\*.
   link:
     url: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2799351
     display: Computational and Structural Biotechnology Journal, 2022, 21, 802-811.
