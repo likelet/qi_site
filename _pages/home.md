@@ -6,19 +6,19 @@ sitemap: false
 permalink: /
 ---
 
-We are a GI cancer bioinformatic research Team at the [Sun Yat-sen university Cancer Center](http://sysucc.org.cn). We are also part of the bioinformatic platform of SYSUCC leading by Professor [REN Jian](https://publons.com/researcher/1557940/jian-ren/)(For more about RenLab, please go to [https://renlab.org/](https://renlab.org/)). 
+We are a team of bioinformatic researchers at the  [Sun Yat-sen university Cancer Center](http://sysucc.org.cn), specializing in GI cancer research. Our team is also part of the bioinformatic platform led by Professor REN Jian, which you can learn more about at https://renlab.org/.
 
-Our research goal is development of novel algorithm, application, database tools for GI cancer omic data analysis; Identification of biomarkers for tumor diagnosis and prognosis with machine-learning approaches.
+Our research focuses on developing new algorithms, applications, and database tools to analyze GI cancer omic data. We also use machine-learning approaches to identify biomarkers for tumor diagnosis and prognosis.
 
-Here are some feild that we currently work on:
+Currently, we are working on several fields, including:
 
-**Biomarkers for Cancer Immunotherapy** 
+**Exploration of Biomarkers for Cancer Immunotherapy** 
 
-**Software and Database related to Cancer genomics**     
+**Developing Software and Database related to Cancer genomics**     
 
-**Development novel targeting treatment strategies for GI cancers** 
+**Developing novel targeting treatment strategies for GI cancers** 
 
-**Machine Learning based models for cancer diagnosis and prognosis**
+**Build Machine Learning based models for cancer diagnosis and prognosis**
 
 **Gut Microbiota and tumor Microenvirment in Cancer Immunotherapy**
 
