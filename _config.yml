@@ -10,8 +10,10 @@ title: The ZHAO Qi Team
 email: zhaoqi@sysucc.org.cn
 description: > # this means to ignore newlines until "baseurl:"
   Website of the ZHAO Qi Team.
-baseurl: ""
-url: ""
+
+# Somehow this fixed the reason why my css was not rendering in deployed mode (production)
+baseurl: /
+url: https://likelet.github.io
 
 include:
   - .htaccess
