@@ -1,10 +1,19 @@
 
+- title: "BioTreasury: a community-based repository enabling indexing and rating of bioinformatics tools"
+  number: 38
+  authors: <strong>Qi Zhao<sup>†</sup></strong>, Xin Zhou<sup>†</sup>, Jingxing Wu<sup>†</sup>, Jieyi Cai, Xiaoqiong Bao, Lin Tang, Chaoye Wang, Chunlei Liu, Yukai Wang, Yuyan Teng, Mohan Zheng, Weiping Mu, Zhixiang Zuo, Yubin Xie, Xiaotong Luo & Jian Ren 
+  link:
+    url: https://link.springer.com/article/10.1007/s11427-023-2509-x
+    display: Science China. Life sciences. 2023.
+  highlight: 0
+  year: 2023
+
 - title: "Comprehensive genomic characterization of sporadic synchronous colorectal cancer: implications for treatment optimization and clinical outcome"
   number: 37
   authors: Lu-Ping Yang<sup>†</sup>, Teng-Jia Jiang<sup>†</sup>, Ming-Ming He<sup>†</sup>, Yi-Hong Ling, Zi-Xian Wang, Hao-Xiang Wu, Zhen Zhang, Rui-Hua Xu, Feng Wang, **Shu-Qiang Yuan\***, **Qi Zhao\*** 
   link:
-    url: 
-    display: Cell Reports Medicine (In Press). 2023.
+    url: https://doi.org/10.1016/j.xcrm.2023.101222
+    display: Cell Reports Medicine  2023 Oct 17;4(10):101222. 
   highlight: 0
   year: 2023
 
