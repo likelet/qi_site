@@ -54,6 +54,15 @@ permalink: /publications/
 ## Selected publications
 (See also [Google Scholar](https://scholar.google.com/citations?user=j7LCthMAAAAJ&hl=en); † for equal contribution; \* for corresponding authors)
 
+### 2024
+{% for publi in site.data.publist_select %}
+
+{% if publi.year == 2024 %}
+[**{{ publi.number }}**].  <u>{{ publi.title }}</u> <br />
+<em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+{% endif %}
+{% endfor %}
+
 ### 2023
 {% for publi in site.data.publist_select %}
 
