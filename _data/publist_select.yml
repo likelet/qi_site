@@ -1,7 +1,7 @@
 
 
 - title: "TCCIA: a comprehensive resource for exploring CircRNA in cancer immunotherapy"
-  number: 38
+  number: 39
   authors: <strong>Qi Zhao<sup>†</sup></strong>, Xin Zhou<sup>†</sup>, Jingxing Wu<sup>†</sup>, Jieyi Cai, Xiaoqiong Bao, Lin Tang, Chaoye Wang, Chunlei Liu, Yukai Wang, Yuyan Teng, Mohan Zheng, Weiping Mu, Zhixiang Zuo, Yubin Xie, Xiaotong Luo & Jian Ren 
   link:
     url: https://jitc.bmj.com/content/12/1/e008040
@@ -12,11 +12,13 @@
 
 - title: "BioTreasury: a community-based repository enabling indexing and rating of bioinformatics tools"
   number: 38
+  image: biotreasury.jpg
+  description:  "In this study, we introduce BioTreasury (http://biotreasury.rjmart.cn), an integrated community-based repository that provides an interactive platform for users and developers to share their experiences in various bioinformatics tools. BioTreasury offers a comprehensive collection of well-indexed bioinformatics software, tools, and databases, totaling over 10,000 entries. In the past two years, we have continuously improved and maintained BioTreasury, adding several exciting features, including creating structured homepages for every tool and user, a hierarchical category of bioinformatics tools and classifying tools using large language model (LLM). BioTreasury streamlines the tool submission process with intelligent auto-completion. Additionally, BioTreasury provides a wide range of social features, for example, enabling users to participate in interactive discussions, rate tools, build and share tool collections for the public."
   authors: <strong>Qi Zhao<sup>†</sup></strong>, Xin Zhou<sup>†</sup>, Jingxing Wu<sup>†</sup>, Jieyi Cai, Xiaoqiong Bao, Lin Tang, Chaoye Wang, Chunlei Liu, Yukai Wang, Yuyan Teng, Mohan Zheng, Weiping Mu, Zhixiang Zuo, Yubin Xie, Xiaotong Luo & Jian Ren 
   link:
     url: https://link.springer.com/article/10.1007/s11427-023-2509-x
     display: Science China. Life sciences. 2023.
-  highlight: 0
+  highlight: 1
   year: 2023
 
 - title: "Comprehensive genomic characterization of sporadic synchronous colorectal cancer: implications for treatment optimization and clinical outcome"
