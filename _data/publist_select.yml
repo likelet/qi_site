@@ -1,5 +1,17 @@
 
 
+- title: "Machine learning-based extrachromosomal DNA identification in large-scale cohorts reveals its clinical implications in cancer"
+  number: 40
+  image: ecdna.jpg
+  authors: Shixiang Wang<sup>†</sup>, Chen-Yi Wu<sup>†</sup>, Ming-Ming He<sup>†</sup>, Jia-Xin Yong<sup>†</sup>, Yan-Xing Chen, Li-Mei Qian, Jin-Ling Zhang, Zhao-Lei Zeng, Rui-Hua Xu\* , Feng Wang\* & **Qi Zhao\*** 
+  description:  We have developed GCAP, a machine-learning based method for identification ecDNA from WES dataset. With GCAP, we profiled ecDNA features in more than 13000 tumor samples. We further provide evidence that ecDNA can be promising biomarker for ICI treatment in GI cancers. 
+  link:
+    url: https://www.nature.com/articles/s41467-024-45479-6
+    display: Nat Commun 15, 1515 (2024). https://doi.org/10.1038/s41467-024-45479-6
+  highlight: 1
+  year: 2024
+
+
 - title: "TCCIA: a comprehensive resource for exploring CircRNA in cancer immunotherapy"
   number: 39
   authors: <strong>Qi Zhao<sup>†</sup></strong>, Xin Zhou<sup>†</sup>, Jingxing Wu<sup>†</sup>, Jieyi Cai, Xiaoqiong Bao, Lin Tang, Chaoye Wang, Chunlei Liu, Yukai Wang, Yuyan Teng, Mohan Zheng, Weiping Mu, Zhixiang Zuo, Yubin Xie, Xiaotong Luo & Jian Ren 
